@@ -1,5 +1,11 @@
 ### Description
-This is an AI project deployed on a website.
+* This is an AI project deployed on a website.
+
+* The website shows popular books based of user rating and number of votes on the home page and also suggest similar books when a book name is searched on the recommend page.
+
+* The ai model uses pandas, numpy and cosine-similarity to recommendations.
+
+* The website is build using React and data fetched from an api created using FastAPI.
 
 ### Demo
 
